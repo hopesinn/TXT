@@ -1,0 +1,3 @@
+Author:vadim ksendzov,
+group:26,
+skills:(SDLC,STLC),Client-server,Dev Tools,VPN,SQL,CMD,Mobile testing

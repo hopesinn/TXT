@@ -1,0 +1,3 @@
+serial:Magnificent Century,
+book:Oscar Wilde "The Picture of Dorian Gray",
+dish:cheesecake
